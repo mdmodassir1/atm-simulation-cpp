@@ -1,0 +1,12 @@
+# Executables
+*.exe
+*.out
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# Temp files
+*.log
+*.tmp
